@@ -4,7 +4,7 @@
 
 This project aims to build an end-to-end data engineering and analytics solution using Microsoft Fabric. The goal is to design a scalable data platform that ingests, transforms, and organizes sales data into actionable insights, following the Medallion Architecture (Bronze, Silver, and Gold).
 
-![Microsoft Fabric Sales Analysis Architecture](architecture.png)
+![Microsoft Fabric Sales Analysis Architecture](docs/architecture.png)
 
 ## Architecture & Data Flow
 
